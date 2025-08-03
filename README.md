@@ -1,8 +1,11 @@
 🛡️ Ransomware Simulator 
 🔐
+
 A simple educational simulator that demonstrates the behavior of ransomware in a safe environment. It encrypts a test file and generates a ransomware note, mimicking a real-life ransomware attack — without causing actual harm to your system.
 
+
 ⚠️ Disclaimer: This project is for educational purposes only. Do not deploy or distribute it in any harmful context.
+
 
 🚨 Problem Statement
 Ransomware attacks are one of the most dangerous cybersecurity threats today. They work by:
@@ -15,7 +18,9 @@ Demanding ransom to unlock access.
 
 Understanding how ransomware behaves can help in developing better defense strategies. However, practicing this in the real world is risky. So this project offers a simulated environment to learn how ransomware works safely.
 
+
 💡 Project Solution
+
 This ransomware simulator is designed as a safe, controlled, and educational tool to demonstrate how ransomware works — without harming any real data. Here’s how the solution unfolds:
 
 🔹 1. Test File Creation
@@ -34,7 +39,9 @@ This simulator does not modify or harm actual user files on your machine. It onl
 All encrypted files and the ransom message can be found in the project folder, allowing observers to visually inspect the process and understand how encryption-based ransomware typically operates.
 
 
+
 🧰 Tools & Technologies Used
+
 🐍 Python 3.13 – Main programming language
 
 🔐 Fernet (from cryptography) – For symmetric AES encryption
@@ -47,7 +54,9 @@ All encrypted files and the ransom message can be found in the project folder, a
 
 📎 Command Line Interface – To execute the script manually
 
+
 🗂️ Repository Structure
+
 bash
 Copy
 Edit
@@ -66,6 +75,7 @@ Edit
 ├── 📢 note.txt                # Ransom note generated
 └── ℹ️  info_files...          # Other related files
 
+
 🧪 How to Run
 Navigate to the project folder:
 
@@ -73,6 +83,8 @@ bash
 Copy
 Edit
 cd C:/cybersecurity/ransomemess
+
+
 Run the script:
 
 bash
