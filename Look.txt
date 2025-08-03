@@ -1,0 +1,11 @@
+
+===============================
+    !! YOUR FILE HAS BEEN ENCRYPTED !!
+===============================
+
+To retrieve your data, send 0.01 BTC to the address:
+bc1qxyzfakeaddresssimulatedonly
+
+After payment, run the decryption program using the key file we sent.
+
+**Note:** This is a simulation for educational purposes only.
